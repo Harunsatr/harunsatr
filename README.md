@@ -10,31 +10,18 @@
 
 ## 📊 My GitHub Statistics
 
-<table>
-  <tr>
-    <td>
-      <h3>📈 GitHub Stats</h3>
-      
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=harunsatr&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&text_color=ffffff&icon_color=58a6ff&count_private=true&include_all_commits=true" alt="GitHub Stats" width="400" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harunsatr&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&text_color=ffffff&title_color=58a6ff" alt="Top Languages" width="400" />
+</div>
+
+### 📈 Key Statistics
 - ⭐ **Total Stars:** 0
 - 💬 **Total Commits:** 154
 - 🔀 **Total PRs:** 0
 - 🐛 **Total Issues:** 0
 - 📦 **Contributed to:** 0
-    </td>
-    <td>
-      <h3>🛠️ Programming Languages</h3>
-      
-- 💛 **JavaScript** 40.10%
-- 🔴 **Blade** 15.70%
-- 💜 **CSS** 16.47%
-- 🔵 **PHP** 11.01%
-- 🩷 **SCSS** 8.01%
-- 🟠 **Jupyter Notebook** 5.81%
-- ⚪ **Hack** 1.44%
-- 🟠 **HTML** 0.48%
-    </td>
-  </tr>
-</table>
 
 ---
 
