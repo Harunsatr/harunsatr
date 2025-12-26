@@ -8,24 +8,18 @@
 
 ---
 
-## 📊 My GitHub Statistics
+### 📊 GitHub Statistic
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harunsatr&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&text_color=ffffff&icon_color=58a6ff&count_private=true&include_all_commits=true" alt="GitHub Stats" width="400" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harunsatr&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&text_color=ffffff&title_color=58a6ff" alt="Top Languages" width="400" />
-</div>
-
-### 📈 Key Statistics
-- ⭐ **Total Stars:** 0
-- 💬 **Total Commits:** 154
-- 🔀 **Total PRs:** 0
-- 🐛 **Total Issues:** 0
-- 📦 **Contributed to:** 0
+<p align="left">
+<a href="https://github.com/harunsatr">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=harunsatr&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=harunsatr&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 ---
 
-## 👨‍💻 Seputar Saya
+## 👨‍💻 About Me
 
 **Computer Science undergraduate** specializing in web development, AI/ML, and generative AI. Experienced in building impactful, user-centric applications integrating AI and AR technologies. Proven leadership in innovation projects and competitions, with strong skills in Python and JavaScript. Passionate about leveraging technology to solve real-world challenges and drive digital innovation.
 
