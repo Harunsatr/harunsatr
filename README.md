@@ -1,6 +1,6 @@
 # 👋 Hallo, I'm Enanto Harun Satrio
 
-**Enthusiast with React and Laravel** | Computer Science Undergraduate | Web Development | AI/ML | Generative AI
+**Enthusiast with React, Python, and Laravel** | Computer Science Undergraduate | Web Development | AI/ML | Generative AI
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enantoharunsatrio/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/harunsatr/)
